@@ -26,3 +26,4 @@ console.log(first_lett);
 function Data(number) {
     if(typeof(number) === "number")
 }
+}
